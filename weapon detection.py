@@ -3,7 +3,6 @@ import cv2
 import imutils
 import datetime
 
-#edit123456\88
 gun_cascade = cv2.CascadeClassifier(r"C:\Users\manas\OneDrive\Desktop\weapon detection\cascade.xml")
 camera = cv2.VideoCapture(0)
 
